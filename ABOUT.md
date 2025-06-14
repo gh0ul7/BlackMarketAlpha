@@ -1,4 +1,6 @@
 # ⚡ BLACK MARKET ALPHA 
+# Black Market Alpha - Project Background
+*A research initiative analyzing market anomalies*
 
 **The market is rigged. Here’s the evidence.** 
 
